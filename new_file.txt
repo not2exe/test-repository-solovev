@@ -1,1 +1,2 @@
 Changes from a new branch
+Changes from a branch 1
