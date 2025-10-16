@@ -1,2 +1,3 @@
 Changes from a new branch
 Changes from a branch 1
+Changes from a merge-branch-2
